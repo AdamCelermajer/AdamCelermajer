@@ -43,8 +43,6 @@ I'm a passionate **23-year-old Computer Science student** in my second year, wit
 - **Android App**: A mobile application for managing personal finances, built with **Android Studio** and integrated with a cloud database.
 
 ## 📈 GitHub Stats
-![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamcelermajer&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamcelermajer&layout=compact&theme=radical)
 
 ## 💬 Connect with Me
