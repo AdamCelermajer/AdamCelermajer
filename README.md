@@ -37,10 +37,9 @@ I'm a passionate **23-year-old Computer Science student** in my second year, wit
 
 ### Web Development
 - **Social Media Website**: A platform similar to Facebook built with **React** for the frontend and **Node.js** and **MongoDB** for the backend.
-- **E-commerce Site**: A full-stack application for an online store, integrating payment gateways and user authentication.
 
 ### Mobile Development
-- **Android App**: A mobile application for managing personal finances, built with **Android Studio** and integrated with a cloud database.
+- **Android App**: A platform similar to Facebook, built with **Android Studio** and integrated with a   **Node.js** and **MongoDB**  server for the backend.
 
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamcelermajer&layout=compact&theme=radical)
