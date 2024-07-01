@@ -31,9 +31,6 @@ I'm a passionate **23-year-old Computer Science student** in my second year, wit
 
 ## 📝 Projects
 
-### Machine Learning
-- **Project 1**: A deep learning model to predict housing prices using various regression techniques.
-- **Project 2**: A machine learning algorithm for image classification using convolutional neural networks (CNNs).
 
 ### Web Development
 - **Social Media Website**: A platform similar to Facebook built with **React** for the frontend and **Node.js** and **MongoDB** for the backend.
