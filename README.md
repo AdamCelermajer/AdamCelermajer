@@ -1,7 +1,5 @@
 # Hi, I'm Adam Celermajer! 👋
 
-![Profile Banner](https://via.placeholder.com/1000x200.png?text=Welcome+to+Adam's+GitHub)
-
 I'm a passionate **23-year-old Computer Science student** in my second year, with a deep love for **machine learning** and a knack for creating innovative projects. My journey in tech has been fueled by curiosity and a drive to solve complex problems with elegant solutions.
 
 ## 🚀 About Me
