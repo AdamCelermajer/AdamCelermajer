@@ -8,7 +8,7 @@ I'm a passionate **23-year-old Computer Science student** in my second year, wit
 - 🔭 I’m currently working on various projects involving **machine learning** and **full-stack development**.
 - 🌱 I’m constantly learning and exploring new technologies and methodologies to stay on the cutting edge.
 - 👯 I’m looking to collaborate on exciting open-source projects and research in machine learning.
-- 📫 How to reach me: [adam.celermajer@example.com](mailto:adam.celermajer@example.com)
+- 📫 How to reach me: [adamcelermajer@gmail.com](mailto:adamcelermajer@gmail.com)
 
 ## 🛠 Technologies & Tools
 
