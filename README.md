@@ -42,5 +42,5 @@ I'm a passionate **23-year-old Computer Science student** in my second year, wit
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamcelermajer&layout=compact&theme=radical)
 
 ## 💬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adamcelermajer/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-celermajer-298198292/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adamcelermajer@gmail.com)
