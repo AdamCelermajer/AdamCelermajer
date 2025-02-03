@@ -39,7 +39,8 @@ I'm a passionate **23-year-old Computer Science student** in my second year, wit
 - **Android App**: A platform similar to Facebook, built with **Android Studio** and integrated with a   **Node.js** and **MongoDB**  server for the backend.
 
 ## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamcelermajer&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamcelermajer&layout=compact&theme=radical&nocache=true)
+
 
 ## 💬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-celermajer-298198292/)
